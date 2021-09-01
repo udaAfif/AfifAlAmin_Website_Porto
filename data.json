@@ -1,0 +1,134 @@
+{
+    "projects": [
+        {
+            "nama": "Kursus Coding Landing Page",
+            "img": "../img/frontend kursus gif.gif",
+            "link": ["https://github.com/udaAfif/portofolio_web_Responsive"],
+            "desc": "Kursus Coding landing page build using HTML, CSS and JS",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "CV Website",
+            "img": "../img/CV web gif.gif",
+            "link": ["https://github.com/udaAfif/AfifCVweb_Responsive"],
+            "desc": "CV Based Website build using HTML, CSS, and JS",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Relax App",
+            "img": "../img/relaxer (1).gif",
+            "link": ["https://github.com/udaAfif/Relax_aplikasi"],
+            "desc": "Website to practice breathing using setTimeOut from Javascript.",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Mini Calculator",
+            "img": "../img/relaxer (2).gif",
+            "link": ["https://github.com/udaAfif/Mini_calculator"],
+            "desc": "Mini Calculator based Website, Build Using JavaScript.",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Pingpong Based Website",
+            "img": "../img/pingpong gif.gif",
+            "link": ["https://github.com/udaAfif/Game-Pingpong-Berbasis-Web"],
+            "desc": "Pingpong Based website build with HTML, CSS, JS",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "nama": "Bus 2D Platformer",
+            "img": "../img/bus gif.gif",
+            "link": ["https://github.com/udaAfif/Bus_2D_Platformer"],
+            "desc": "Bus 2D Platformer website build with HTML, CSS, JS",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        }],
+
+
+
+
+
+        "certificates": [
+        {
+            "img": "../img/189cfc78d8c1fdd8db1deaee037565b0course_certificate_e2a8ea9eqqvqup/189cfc78d8c1fdd8db1deaee037565b0course_certificate_e2a8ea9eqqvqup_page-0001.jpg",
+            "ket": "Java Script course completion certificate at Progate.com",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/189cfc78d8c1fdd8db1deaee037565b0course_certificate_e2a8ea9eqqvqup/fcbe97b38d40e7db5468b3b909a0a1accourse_certificate_83dfe72fqpyp3c_page-0001.jpg",
+            "ket": "HTML and CSS course completion certificate on Progate.com",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/189cfc78d8c1fdd8db1deaee037565b0course_certificate_e2a8ea9eqqvqup/bc5549fb4d134d35b5245bbaa9d27bd4course_certificate_6bbec336qq4c5e_page-0001.jpg",
+            "ket": "Command Line course completion certificate at Progate.com",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        
+        
+        {
+            "img": "../img/189cfc78d8c1fdd8db1deaee037565b0course_certificate_e2a8ea9eqqvqup/Certificate Harisenin Mini School - Afif Al Amin __ Nilai Certification Test_ 80_page-0001.jpg",
+            "ket": "2 day certificate of completion at Monday MiniSchool - Full Stack & Web Development",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/189cfc78d8c1fdd8db1deaee037565b0course_certificate_e2a8ea9eqqvqup/Afif Al Amin-Sertifikat Webinar Berkreasi melalui Animasi dan Game_page-0001.jpg",
+            "ket": "Certificate of participation in the National Webinar organized by KOMINFO & STMM",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        },
+        {
+            "img": "../img/189cfc78d8c1fdd8db1deaee037565b0course_certificate_e2a8ea9eqqvqup/Afif Al Amin Sertifikat Webinar Pemanfaatan Media Sosial_page-0001.jpg",
+            "ket": "Certificate of participation in the National Webinar organized by KOMINFO & STMM",
+            "tags":[
+                "html",
+                "css",
+                "js"
+            ]
+        }
+
+    ]
+
+}
